@@ -1,5 +1,5 @@
-public class Cudvct {
+public class Crjyrq {
     public static void main() {
-        System.out.println("mdveh");
+        System.out.println("wascg");
     }
 }
