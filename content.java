@@ -1,5 +1,5 @@
-public class Crjyrq {
+public class Ciccwi {
     public static void main() {
-        System.out.println("wascg");
+        System.out.println("lvhoc");
     }
 }
